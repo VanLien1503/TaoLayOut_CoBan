@@ -1,0 +1,25 @@
+.box_model{
+    margin: 0 auto;
+    width: 800px;
+    padding: 10px;
+    border-top: 10px solid blue;
+    border-bottom: 10px solid rebeccapurple;
+    border-left: 10px solid fuchsia;
+    border-right: 10px solid chartreuse;
+}
+.box_model p{
+    border: 3px dotted red;
+    padding: 10px;
+}
+#box_model_1{
+    color: #17ec08;
+    margin-bottom: 20px;
+}
+#box_model_2{
+    color: #130cea;
+    margin-bottom: 40px;
+}
+#box_model_3{
+    color: #db1856;
+    margin-bottom: 60px;
+}
