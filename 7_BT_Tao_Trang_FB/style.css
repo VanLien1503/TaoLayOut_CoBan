@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+#header{
+    margin-top: 0;
+    background: #0404b1;
+    height: 100px;
+    width: 100%;
+    color: white;
+
+}
+#header_left{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+#header_right{
+    width: 50%;
+    float: left;
+}
+
+
+#main{
+    background: honeydew;
+    height: 500px;
+    width: 50%;
+    float: left;
+    position: relative;
+}
+strong{
+    margin-top:30px;
+    position: absolute;
+    font-family: inherit;
+}
+#sidebar{
+    background: white;
+    height: 500px;
+    width: 50%;
+    float: left;
+}
+#footer{
+    background: #12c4c9;
+    height:150px;
+    width: 100%;
+    clear: both;
+
+}
